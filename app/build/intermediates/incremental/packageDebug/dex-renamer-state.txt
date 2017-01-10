@@ -1,0 +1,7 @@
+#Tue Jan 10 08:00:44 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadJSON\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4521c88fd86d1c3610147fb0cd9390cbcde59c8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadJSON\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1243353998a6d09b8b1e111e1cf87cc3fffaeb9b\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadJSON\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1243353998a6d09b8b1e111e1cf87cc3fffaeb9b
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadJSON\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4521c88fd86d1c3610147fb0cd9390cbcde59c8c\\classes.dex
